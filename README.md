@@ -1,1 +1,1 @@
-# Zadanie_3_Dziedziczenie_i_Dostp
+Zadanko na dziedziczenie i dostę;p do elementów prywatnych i abstrakcyjnych.
